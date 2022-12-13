@@ -1,0 +1,45 @@
+
+
+// base
+@import './base/reset';
+@import './base/common';
+@import './utilities/mixins';
+
+// utilities 
+@import './utilities/variables';
+@import './utilities/hidden';
+
+// components
+
+@import './components/buttons';
+@import './components/container';
+@import './components/icons-team';
+@import './components/icons-advantage';
+@import './components/signage-advantage';
+@import './components/modal';
+
+
+
+
+// layouts-main 
+@import './layouts-main/header';
+@import './layouts-main/hero';
+@import './layouts-main/section-advantage';
+@import './layouts-main/section-team';
+@import './layouts-main/section-clients';
+@import './layouts-main/footer';
+
+
+// PORTFOLIO 
+
+// 
+@import './portfolio-page/main-section';
+@import './portfolio-page/main-section-overlay';
+@import './portfolio-page/portfolio-buttons';
+@import './portfolio-page/portfolio-text';
+
+
+
+
+
+
